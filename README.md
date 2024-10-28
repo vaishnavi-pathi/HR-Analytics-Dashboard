@@ -1,6 +1,6 @@
-# British Airways Review
+# HR Analytics Dashboard
 
-### Dashboard Link : https://public.tableau.com/views/TableauProject_17290330589740/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+### Dashboard Link : [https://public.tableau.com/views/TableauProject_17290330589740/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/HRAnalyticsProject_17297118520630/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Problem Statement
 
