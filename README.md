@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-This HR Analytics Dashboard is designed to provide insights into employee attrition andjob satisfaction. Employee attrition is a significant challenge for HR departments, impacting productivity, team morale, and operational costs. This dashboard gives HR leaders and stakeholders a comprehensive view of employee retention patterns, satisfaction levels, and demographic factors influencing attrition. By analyzing these metrics, the HR team can develop targeted strategies to improve retention, enhance job satisfaction, and make informed decisions regarding workforce planning and employee engagement.
+This HR Analytics Dashboard is designed to provide insights into employee attrition and job satisfaction. Employee attrition is a significant challenge for HR departments, impacting productivity, team morale, and operational costs. This dashboard gives HR leaders and stakeholders a comprehensive view of employee retention patterns, satisfaction levels, and demographic factors influencing attrition. By analyzing these metrics, the HR team can develop targeted strategies to improve retention, enhance job satisfaction, and make informed decisions regarding workforce planning and employee engagement.
 
 
 ## Key Features of the Dashboard
